@@ -1,6 +1,7 @@
 # FabZero Traject "STUDENT"
 [![logo](https://ingegnomakerspace.github.io/inclusievekets/assets/images/logo.svg)][fabzero]
 
+Zie de site op [ingegno.github.io/fabzero-student-template](https://ingegno.github.io/fabzero-student-template/).
 
 Template voor FabZero gebaseerd [jekyll-rtd-theme](https://github.com/rundocs/jekyll-rtd-theme).
 
