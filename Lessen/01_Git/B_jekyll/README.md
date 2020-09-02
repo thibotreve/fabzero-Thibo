@@ -1,3 +1,6 @@
+---
+sort: 2
+---
 # Jekyll
 
 Deze site is gemaakt met Jekyll, een statische website bouwer. 
