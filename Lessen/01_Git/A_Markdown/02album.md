@@ -26,7 +26,7 @@ images:
 
 ## Show image from THIS website
 
-Image must be located in **assets** folder and you need to use the variable `{{ site.baseurl }}` to indicate where this website is located
+Image must be located in **assets** folder and you need to use the variable {% raw %}`{{ site.baseurl }}`{% endraw %} to indicate where this website is located
 
 ![test image internet]({{ site.baseurl }}/assets/images/logo.svg)
 
@@ -36,7 +36,7 @@ Image must be located in **assets** folder and you need to use the variable `{{ 
 
 ## Turn your image in a link to page of THIS website
 
-You need to use the variable `{{ site.baseurl }}` to refer to the root of your website. You can use `#` to refer to a header section in that page.
+You need to use the variable {% raw %}`{{ site.baseurl }}`{% endraw %} to refer to the root of your website. You can use `#` to refer to a header section in that page.
 
 [![test image internet]({{ site.baseurl }}/assets/images/logo.svg)]({{ site.baseurl }}/Lessen/01_Git/A_Markdown/04codes.html#code-highlight)
 
