@@ -42,6 +42,8 @@ You need to use the variable {% raw %}`{{ site.baseurl }}`{% endraw %} to refer 
 
 # Album Images via frontmatter images table
 
+{% include album.liquid data=page.images %}
+
 foto vanop het internet
 
 ![foto Thibo](https://media-exp1.licdn.com/dms/image/C4E03AQEBkb9GNCWZYg/profile-displayphoto-shrink_200_200/0?e=1604534400&v=beta&t=HPmUTsdglBTbVdHwWsXKnrC0pnPC6wRy8PnMo5GBtyw)
@@ -50,4 +52,4 @@ foto van in mijn repository
 
 ![foto Thibo]({{ site.baseurl }}/assets/0.jpg)
 
-{% include album.liquid data=page.images %}
+
