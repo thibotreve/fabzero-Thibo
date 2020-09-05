@@ -1,4 +1,6 @@
-# Wie ben ik? En waarom neem ik deel aan Fabzero?
+#Git gebruiken
+
+## Wie ben ik? En waarom neem ik deel aan Fabzero?
 
 ![foto Thibo]({{ site.baseurl }}/assets/0.jpg)
 
