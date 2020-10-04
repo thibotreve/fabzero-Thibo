@@ -10,3 +10,4 @@ Ik besloot om enkele onderleggers te maken waarop ik zelfgetekende of in bitmap 
 
 ![foto onderlegger]({{ site.baseurl }}/assets/120814389_656197918656761_5743091435856101164_n.jpg)
 ![foto onderlegger]({{ site.baseurl }}/assets/120769541_347734879877972_399528529708796871_n.jpg)
+![foto onderlegger]({{ site.baseurl }}/assets/120806025_778349192940915_560564653979817452_n.jpg)
