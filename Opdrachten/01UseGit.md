@@ -1,11 +1,9 @@
 # Git gebruiken
 
-## Wie ben ik? En waarom neem ik deel aan Fabzero?
+## Wat leerde ik deze les bij?
 
-![foto Thibo]({{ site.baseurl }}/assets/0.jpg)
+Ik leerde dat er tijdens een designproces een groot deel van het proces besteed wordt aan het kiezen vande juiste materialen. Sommige materialen mmogen namelijk niet bewerkt worden met bijvoorbeeld een lasercutter.
 
-Mijn naam is **Thibo Treve**, ik ben momenteel 21 jaar en neem deel aan Fabzero om mijn maakskils wat aan te scherpen.
+## Hoe implementeer ik deze les in mijn projecten?
 
-Ik ben reeds enkele jaren zeer geïnteresseerd geweest in de maakcommunity, maar ben er zelf nooit toe gekomen om aan de slag te gaan in een maaklab, en tijdens deze opleiding zal ik aan de slag kunnen gaan in het [Buda::lab](https://www.budalab.be/) in Kortrijk.
-
-source: `{{ page.path }}`
+Ik zal op voorhand duidelijk nadenken over welke materialen gebruik, maar ook op welke manier ik ze zal gebruiken, ik leerde onder andere bij dat je een materiaal steviger kunt maken door deze op een bepaalde manier te vervormen of te plooien.
