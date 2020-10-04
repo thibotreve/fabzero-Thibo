@@ -8,3 +8,4 @@ Ik leerde tekenen in 2D binnen illustrator en Inkscape, en leerde ook de voordel
 
 Ik besloot om enkele onderleggers te maken waarop ik zelfgetekende of in bitmap omgezette afbeeldingen zou laseren. 
 
+![foto onderlegger]({{ site.baseurl }}/assets/120814389_656197918656761_5743091435856101164_n.jpg)
